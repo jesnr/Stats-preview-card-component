@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/jesnr/Stats-preview-card-component](https://github.com/jesnr/Stats-preview-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://jesnr.github.io/Stats-preview-card-component/](https://jesnr.github.io/Stats-preview-card-component)
 
 ## My process
 
